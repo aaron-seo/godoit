@@ -8,7 +8,7 @@ Godoit is a task scheduler for UCLA students with no need for manual work to set
 - [Structure](https://github.com/aaron-seo/godoit#structure)
 - [API](https://github.com/aaron-seo/godoit#api)
 - [Getting Started](https://github.com/aaron-seo/godoit#getting-started)
-- [Goals](https://github.com/aaron-seo#goals)
+- [Goals](https://github.com/aaron-seo/godoit#goals)
 
 ## Technologies Used
 

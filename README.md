@@ -21,7 +21,6 @@ Godoit is a task scheduler for UCLA students with no need for manual work to set
 ```
 .
 ├── Dockerfile
-├── GoDoIt
 ├── README.md
 ├── docker-compose.yaml
 ├── go.mod
